@@ -4,5 +4,5 @@ This project focuses on evaluating the SAM2 on medical images (videos/volumes), 
 
 
  ## TotalSegmentor-MR
- [![Dice](https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/results/results_mr1.png)]([https://your-link.com](https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/results/results_mr1.png))
+ [[Dice]](https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/results/results_mr1.png)
 
