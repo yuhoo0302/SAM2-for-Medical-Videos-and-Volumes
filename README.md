@@ -17,6 +17,7 @@ This project focuses on evaluating the SAM2 on medical images (videos/volumes), 
 
 
  ## CAMUS
+ [[Dice]](https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/results/results_camus1.png) [[HD]](https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/results/results_camus2.png) [[IoU]](https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/results/results_camus3.png)
 <div align="center">
 <img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/camus-us1.gif" height="200"> <img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/camus-us2.gif" height="200">
 </div>
