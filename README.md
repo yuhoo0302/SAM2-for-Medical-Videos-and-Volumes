@@ -35,14 +35,21 @@ This project focuses on evaluating the SAM2 on medical images (videos/volumes), 
 <img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/sts_cbct1.gif" height="150"> <img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/sts_cbct2.gif" height="150"> <img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/sts_cbct3.gif" height="150"> <img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/sts_cbct4.gif" height="150"> <img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/sts_cbct5.gif" height="150">
 </div>
 
-## MSD-HEART
+## MSD-Heart
 [[Link]](http://medicaldecathlon.com/)
 <div align="center">
 <img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/msd_heart_mr1.gif" height="150"> <img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/msd_heart_mr2.gif" height="150"> <img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/msd_heart_mr3.gif" height="150"> 
 </div>
 
+## MSD-Prostate (T2/ADC)
+[[Link]](http://medicaldecathlon.com/)
+<div align="center">
+<img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/msd_prostate_T2_1.gif" height="150"><img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/msd_prostate_ADC_1.gif" height="150"> <img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/msd_prostate_T2_2.gif" height="150"><img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/msd_prostate_ADC_2.gif" height="150"> <img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/msd_prostate_T2_3.gif" height="150"><img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/msd_prostate_ADC_3.gif" height="150">
+</div>
+
 
 ## Multi-Atlas Labeling Beyond the Cranial Vault-CT
+[[Link]](https://www.synapse.org/Synapse:syn3193805/wiki/217789)
 <div align="center">
 <img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/MALBCV_CT1.gif" height="150"><img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/MALBCV_CT2.gif" height="150"><img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/MALBCV_CT3.gif" height="150">
 </div>
