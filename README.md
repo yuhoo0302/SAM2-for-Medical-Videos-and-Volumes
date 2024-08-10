@@ -28,3 +28,9 @@ This project focuses on evaluating the SAM2 on medical images (videos/volumes), 
 <div align="center">
 <img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/CholecSeg8K-1.gif" height="150"><img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/CholecSeg8K-2.gif" height="150"><img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/CholecSeg8K-3.gif" height="150">
 </div>
+
+## STS-3D CBCT
+[[Link]](https://tianchi.aliyun.com/competition/entrance/532087)
+<div align="center">
+<img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/sts_cbct1.gif" height="150"><img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/sts_cbct2.gif" height="150"><img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/sts_cbct3.gif" height="150">
+</div>
