@@ -10,14 +10,14 @@ This project focuses on evaluating the SAM2 on medical images (videos/volumes), 
 </div>
 
 ## Electron Microscopy Dataset (mitochondria)
-[[Dice]](https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/results/results_em1.png) [[HD]](https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/results/results_em2.png) [[IoU]](https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/results/results_em3.png) [[Link]](https://www.kaggle.com/datasets/kmader/electron-microscopy-3d-segmentation)
+[[Dice]](https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/results/results_EM1.png) [[HD]](https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/results/results_EM2.png) [[IoU]](https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/results/results_EM3.png) [[Link]](https://www.kaggle.com/datasets/kmader/electron-microscopy-3d-segmentation)
 <div align="center">
 <img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/mitochondria_em1.gif" height="200"> <img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/mitochondria_em2.gif" height="200">
 </div>
 
 
-## CAMUS
-[[Dice]](https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/results/results_camus1.png) [[HD]](https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/results/results_camus2.png) [[IoU]](https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/results/results_camus3.png) [[Link]](https://www.creatis.insa-lyon.fr/Challenge/camus/index.html)
+## CAMUS 
+[[Dice]](https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/results/results_CAMUS1.png) [[HD]](https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/results/results_CAMUS2.png) [[IoU]](https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/results/results_CAMUS3.png) [[Link]](https://www.creatis.insa-lyon.fr/Challenge/camus/index.html)
 <div align="center">
 <img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/camus-us1.gif" height="200"> <img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/camus-us2.gif" height="200">
 </div>
@@ -36,20 +36,20 @@ This project focuses on evaluating the SAM2 on medical images (videos/volumes), 
 </div>
 
 ## MSD-Heart
-[[Link]](http://medicaldecathlon.com/)
+[[Dice]](https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/results/results_MSDheart1.png) [[HD]](https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/results/results_MSDheart2.png) [[IoU]](https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/results/results_MSDheart3.png) [[Link]](http://medicaldecathlon.com/)
 <div align="center">
 <img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/msd_heart_mr1.gif" height="150"> <img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/msd_heart_mr2.gif" height="150"> <img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/msd_heart_mr3.gif" height="150"> 
 </div>
 
 ## MSD-Prostate (T2/ADC)
-[[Link]](http://medicaldecathlon.com/)
+[[Dice-T2]](https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/results/results_MSDprostate11.png) [[HD-T2]](https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/results/results_MSDprostate12.png) [[IoU-T2]](https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/results/results_MSDprostate13.png) [[Dice-ADC]](https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/results/results_MSDprostate21.png) [[HD-ADC]](https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/results/results_MSDprostate22.png) [[IoU-ADC]](https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/results/results_MSDprostate23.png) [[Link]](http://medicaldecathlon.com/)
 <div align="center">
-<img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/msd_prostate_T2_1.gif" height="150"><img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/msd_prostate_ADC_1.gif" height="150"> <img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/msd_prostate_T2_2.gif" height="150"><img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/msd_prostate_ADC_2.gif" height="150"> <img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/msd_prostate_T2_3.gif" height="150"><img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/msd_prostate_ADC_3.gif" height="150">
+<img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/msd_prostate_T2_1.gif" height="130"><img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/msd_prostate_ADC_1.gif" height="130"> <img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/msd_prostate_T2_2.gif" height="130"><img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/msd_prostate_ADC_2.gif" height="130"> <img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/msd_prostate_T2_3.gif" height="130"><img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/msd_prostate_ADC_3.gif" height="130">
 </div>
 
 
 ## Multi-Atlas Labeling Beyond the Cranial Vault-CT
-[[Link]](https://www.synapse.org/Synapse:syn3193805/wiki/217789)
+[[Dice]](https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/results/results_MALBCV1.png) [[HD]](https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/results/results_MALBCV2.png) [[IoU]](https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/results/results_MALBCV3.png) [[Link]](https://www.synapse.org/Synapse:syn3193805/wiki/217789)
 <div align="center">
 <img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/MALBCV_CT1.gif" height="150"><img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/MALBCV_CT2.gif" height="150"><img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/MALBCV_CT3.gif" height="150">
 </div>
