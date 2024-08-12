@@ -54,8 +54,6 @@ This project focuses on evaluating the SAM2 on medical images (videos/volumes), 
 </div>
 
 
-
-
 ## Multi-Atlas Labeling Beyond the Cranial Vault-CT
 [[Dice]](https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/results/results_MALBCV1.png) [[HD]](https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/results/results_MALBCV2.png) [[IoU]](https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/results/results_MALBCV3.png) [[Link]](https://www.synapse.org/Synapse:syn3193805/wiki/217789)
 <div align="center">
@@ -74,5 +72,17 @@ This project focuses on evaluating the SAM2 on medical images (videos/volumes), 
 <div align="center">
 <img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/ToothFairy_1.gif" height="150"><img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/ToothFairy_2.gif" height="150"><img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/ToothFairy_3.gif" height="150">
 </div>
+
+
+## Cross-Modality Domain Adaptation for Medical Image Segmentation 2021 (T1)
+[[Dice]](https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/results/results_crossMoDA1.png) [[HD]](https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/results/results_crossMoDA2.png) [[IoU]](https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/results/rresults_crossMoDA3.png) [[Link]](https://crossmoda.grand-challenge.org/)
+<div align="center">
+<img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/crossmoda_1.gif" height="150"><img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/crossmoda_2.gif" height="150"><img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/crossmoda_3.gif" height="150">
+</div>
+
+
+
+
+
 
 
