@@ -47,9 +47,32 @@ This project focuses on evaluating the SAM2 on medical images (videos/volumes), 
 <img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/msd_prostate_T2_1.gif" height="130"><img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/msd_prostate_ADC_1.gif" height="130"> <img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/msd_prostate_T2_2.gif" height="130"><img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/msd_prostate_ADC_2.gif" height="130"> <img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/msd_prostate_T2_3.gif" height="130"><img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/msd_prostate_ADC_3.gif" height="130">
 </div>
 
+## MSD-Lung
+[[Dice]](https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/results/results_MSDLung1.png) [[HD]](https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/results/results_MSDLung2.png) [[IoU]](https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/results/results_MSDLung3.png) [[Link]](http://medicaldecathlon.com/)
+<div align="center">
+<img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/msd_lung_1.gif" height="150"> <img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/msd_lung_2.gif" height="150"> <img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/msd_lung_3.gif" height="150"> 
+</div>
+
+
+
 
 ## Multi-Atlas Labeling Beyond the Cranial Vault-CT
 [[Dice]](https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/results/results_MALBCV1.png) [[HD]](https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/results/results_MALBCV2.png) [[IoU]](https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/results/results_MALBCV3.png) [[Link]](https://www.synapse.org/Synapse:syn3193805/wiki/217789)
 <div align="center">
 <img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/MALBCV_CT1.gif" height="150"><img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/MALBCV_CT2.gif" height="150"><img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/MALBCV_CT3.gif" height="150">
 </div>
+
+
+## Multi-Centre, Multi-Vendor & Multi-Disease Cardiac Image Segmentation Challenge
+[[Dice]](https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/results/results_MMS1.png) [[HD]](https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/results/results_MMS2.png) [[IoU]](https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/results/results_MMS3.png) [[Link]](https://ieeexplore.ieee.org/document/9458279)
+<div align="center">
+<img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/mms_1.gif" height="150"><img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/mms_2.gif" height="150"><img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/mms_3.gif" height="150">
+</div>
+
+## ToothFairy2: Multi-Structure Segmentation in CBCT Volumes
+[[Dice]](https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/results/results_ToothFairy21.png) [[HD]](https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/results/results_ToothFairy22.png) [[IoU]](https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/results/results_ToothFairy23.png) [[Link]](https://toothfairy2.grand-challenge.org/)
+<div align="center">
+<img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/ToothFairy_1.gif" height="150"><img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/ToothFairy_2.gif" height="150"><img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/ToothFairy_3.gif" height="150">
+</div>
+
+
