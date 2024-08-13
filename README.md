@@ -117,7 +117,7 @@ This project focuses on evaluating the SAM2 on medical images (videos/volumes), 
 #### Target: `3D FAZ`
 [[Link]](https://ieee-dataport.org/open-access/octa-500)
 <div align="center">
-<img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/octa500-1.gif" height="150"><img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/octa500-2.gif" height="150"><img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/octa500-3.gif" height="150">
+<img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/octa500-1.gif" height="300"> <img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/octa500-2.gif" height="300"> <img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/octa500-3.gif" height="300">
 </div>
 
 
