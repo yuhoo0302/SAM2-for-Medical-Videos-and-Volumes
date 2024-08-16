@@ -130,6 +130,17 @@ This project focuses on evaluating the SAM2 on medical images (videos/volumes), 
 <img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/CholecSeg8K-1.gif" height="150"><img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/CholecSeg8K-2.gif" height="150"><img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/CholecSeg8K-3.gif" height="150">
 </div>
 
+
+## SunSeg
+#### Modality: `Colonoscopy`
+#### Target: `PolyP`
+[[Dice]](https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/results/results_sunseg1.png) [[HD]](https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/results/results_sunseg2.png) [[IoU]](https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/results/results_sunseg3.png) [[Link1]](http://amed8k.sundatabase.org/) [[Link2]](https://github.com/GewelsJI/VPS/blob/main/docs/DATA_PREPARATION.md)
+<div align="center">
+<img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/sunseg1.gif" height="120"><img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/sunseg2.gif" height="120"><img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/sunseg3.gif" height="120"><img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/sunseg4.gif" height="120"><img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/sunseg5.gif" height="120">
+</div>
+
+
+
 ## OCTA-500
 #### Modality: `OCTA`
 #### Target: `3D FAZ`
@@ -138,14 +149,6 @@ This project focuses on evaluating the SAM2 on medical images (videos/volumes), 
 <img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/octa500-1.gif" height="300"> <img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/octa500-2.gif" height="300"> <img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/octa500-3.gif" height="300">
 </div>
 
-
-## SunSeg
-#### Modality: `OCTA`
-#### Target: `3D FAZ`
-[[Dice]](https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/results/results_sunseg1.png) [[HD]](https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/results/results_sunseg2.png) [[IoU]](https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/results/results_sunseg3.png) [[Link1]](http://amed8k.sundatabase.org/) [[Link2]](https://github.com/GewelsJI/VPS/blob/main/docs/DATA_PREPARATION.md)
-<div align="center">
-<img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/sunseg1.gif" height="120"><img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/sunseg2.gif" height="120"><img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/sunseg3.gif" height="120"><img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/sunseg4.gif" height="120"><img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/sunseg5.gif" height="120">
-</div>
 
 
 
