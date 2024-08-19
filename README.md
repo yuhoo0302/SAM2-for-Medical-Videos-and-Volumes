@@ -168,7 +168,7 @@ This project focuses on evaluating the SAM2 on medical images (videos/volumes), 
 </div>
 
 
-## OCTA-500
+## OIMHS
 #### Modality: `OCT`
 #### Target: `choroid, intraretinal cysts, macular hole, retina`
 [[Dice]](https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/results/results_OIMHSdatasets1.png) [[HD]](https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/results/results_OIMHSdatasets2.png) [[IoU]](https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/results/results_OIMHSdatasets3.png) [[Link]](https://springernature.figshare.com/articles/dataset/OIMHS_dataset/23508453?backTo=%2Fcollections%2FOIMHS_An_Optical_Coherence_Tomography_Image_Dataset_Based_on_Macular_Hole_Manual_Segmentation%2F6662624&file=42522673)
