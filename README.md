@@ -127,7 +127,7 @@ This project focuses on evaluating the SAM2 on medical images (videos/volumes), 
 #### Target: `left ventricle (LV), right ventricle (RV), left atrium (LA), right atrium (RA)`
 [[Link]](https://www.kaggle.com/datasets/xiaoweixumedicalai/cardiacudc-dataset)
 <div align="center">
-<img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/cardiacUDC_1.gif" height="150"><img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/cardiacUDC_2.gif" height="150"><img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/cardiacUDC-3.gif" height="150"><img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/cardiacUDC-4.gif" height="150"><img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/cardiacUDC-5.gif" height="150">
+<img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/cardiacUDC_1.gif" height="120"><img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/cardiacUDC_2.gif" height="120"><img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/cardiacUDC-3.gif" height="120"><img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/cardiacUDC-4.gif" height="120"><img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/cardiacUDC-5.gif" height="120">
 </div>
 
 
@@ -136,7 +136,7 @@ This project focuses on evaluating the SAM2 on medical images (videos/volumes), 
 #### Target: `left ventricle (LV), right ventricle (RV), left atrium (LA), right atrium (RA)`
 [[Link]](https://www.kaggle.com/datasets/xiaoweixumedicalai/echocp)
 <div align="center">
-<img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/EchoCP-1.gif" height="150"><img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/EchoCP-2.gif" height="150"><img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/EchoCP-3.gif" height="150"><img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/EchoCP-4.gif" height="150"><img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/EchoCP-5.gif" height="150">
+<img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/EchoCP-1.gif" height="120"><img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/EchoCP-2.gif" height="120"><img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/EchoCP-3.gif" height="120"><img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/EchoCP-4.gif" height="120"><img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/EchoCP-5.gif" height="120">
 </div>
 
 
