@@ -48,6 +48,38 @@ This project focuses on evaluating the SAM2 on medical images (videos/volumes), 
 </div>
 
 
+## Brain Tumor Segmentation (BraTS) Challenge 2020
+#### Modality: `Multimodal MRI (T1, T1Gd, T2, T2-FLAIR)`
+#### Target: `gd-enhancing tumor, non-enhancing tumor core, peritumoral edema`
+[[Link]](https://ieeexplore.ieee.org/document/9458279)
+
+##### T1-weighted MRI
+[[Dice]](https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/results/results_BraTS2020t11.png) [[HD]](https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/results/results_BraTS2020t12.png) [[IoU]](https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/results/results_BraTS2020t13.png) 
+<div align="center">
+<img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/BraTS20_t11.gif" height="150"><img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/BraTS20_t12.gif" height="150"><img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/BraTS20_t13.gif" height="150"><img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/BraTS20_t14.gif" height="150">
+</div>
+
+##### T2-weighted MRI
+[[Dice]](https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/results/results_BraTS2020t21.png) [[HD]](https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/results/results_BraTS2020t22.png) [[IoU]](https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/results/results_BraTS2020t23.png) 
+<div align="center">
+<img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/BraTS20_t21.gif" height="150"><img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/BraTS20_t22.gif" height="150"><img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/BraTS20_t23.gif" height="150"><img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/BraTS20_t24.gif" height="150">
+</div>
+
+##### Post-contrast T1-weighted (T1Gd) MRI
+[[Dice]](https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/results/results_BraTS2020t1ce1.png) [[HD]](https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/results/results_BraTS2020t1ce2.png) [[IoU]](https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/results/results_BraTS2020t1ce3.png) 
+<div align="center">
+<img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/BraTS20_t1ce1.gif" height="150"><img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/BraTS20_t1ce2.gif" height="150"><img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/BraTS20_t1ce3.gif" height="150"><img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/BraTS20_t1ce4.gif" height="150">
+</div>
+
+##### T2 Fluid Attenuated Inversion Recovery (T2-FLAIR) MRI
+[[Dice]](https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/results/results_BraTS2020flair1.png) [[HD]](https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/results/results_BraTS2020flair2.png) [[IoU]](https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/results/results_BraTS2020flair3.png) 
+<div align="center">
+<img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/BraTS20_flair1.gif" height="150"><img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/BraTS20_flair2.gif" height="150"><img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/BraTS20_flair3.gif" height="150"><img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/BraTS20_flair4.gif" height="150">
+</div>
+
+
+
+
 ## TotalSegmentor-CT
 #### Modality: `CT`
 #### Target: `adrenal_gland_left, adrenal_gland_right, aorta, atrial_appendage_left, autochthon_left, autochthon_right, brachiocephalic_trunk, brachiocephalic_vein_left, brachiocephalic_vein_right, brain, clavicula_left, clavicula_right, colon, common_carotid_artery_left, common_carotid_artery_right, costal_cartilages, duodenum, esophagus, femur_left, femur_right, gallbladder, gluteus_maximus_left, gluteus_maximus_right, gluteus_medius_left, gluteus_medius_right, gluteus_minimus_left, gluteus_minimus_right, heart, hip_left, hip_right, humerus_left, humerus_right, iliac_artery_left, iliac_artery_right, iliac_vena_left, iliac_vena_right, iliopsoas_left, iliopsoas_right, inferior_vena_cava, kidney_cyst_left, kidney_cyst_right, kidney_left, kidney_right, liver, lung_lower_lobe_left, lung_lower_lobe_right, lung_middle_lobe_right, lung_upper_lobe_left, lung_upper_lobe_right, pancreas, portal_vein_and_splenic_vein, prostate, pulmonary_vein, rib_left_1, rib_left_10, rib_left_11, rib_left_12, rib_left_2, rib_left_3, rib_left_4, rib_left_5, rib_left_6, rib_left_7, rib_left_8, rib_left_9, rib_right_1, rib_right_10, rib_right_11, rib_right_12, rib_right_2, rib_right_3, rib_right_4, rib_right_5, rib_right_6, rib_right_7, rib_right_8, rib_right_9, sacrum, scapula_left, scapula_right, skull, small_bowel, spinal_cord, spleen, sternum, stomach, subclavian_artery_left, subclavian_artery_right, superior_vena_cava, thyroid_gland, trachea, urinary_bladder, vertebrae_c1, vertebrae_c2, vertebrae_c3, vertebrae_c4, vertebrae_c5, vertebrae_c6, vertebrae_c7, vertebrae_l1, vertebrae_l2, vertebrae_l3, vertebrae_l4, vertebrae_l5, vertebrae_s1, vertebrae_t1, vertebrae_t10, vertebrae_t11, vertebrae_t12, vertebrae_t2, vertebrae_t3, vertebrae_t4, vertebrae_t5, vertebrae_t6, vertebrae_t7, vertebrae_t8, vertebrae_t9`
@@ -101,7 +133,7 @@ This project focuses on evaluating the SAM2 on medical images (videos/volumes), 
 #### Target: `mitochondria`
 [[Dice]](https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/results/results_EM1.png) [[HD]](https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/results/results_EM2.png) [[IoU]](https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/results/results_EM3.png) [[Link]](https://www.kaggle.com/datasets/kmader/electron-microscopy-3d-segmentation)
 <div align="center">
-<img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/mitochondria_em1.gif" height="200"> <img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/mitochondria_em2.gif" height="200">
+<img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/mitochondria_em1.gif" height="150"> <img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/mitochondria_em2.gif" height="150">
 </div>
 
 ## ssTEM
@@ -109,7 +141,7 @@ This project focuses on evaluating the SAM2 on medical images (videos/volumes), 
 #### Target: `NeuralStructures`
 [[Link]](https://imagej.net/events/isbi-2012-segmentation-challenge)
 <div align="center">
-<img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/NeuralStructures1.gif" height="200"> 
+<img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/NeuralStructures1.gif" height="150"> 
 </div>
 
 
@@ -118,7 +150,7 @@ This project focuses on evaluating the SAM2 on medical images (videos/volumes), 
 #### Target: `left ventricle endocardium, left ventricle epicardium, left atrium`
 [[Dice]](https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/results/results_CAMUS1.png) [[HD]](https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/results/results_CAMUS2.png) [[IoU]](https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/results/results_CAMUS3.png) [[Link]](https://www.creatis.insa-lyon.fr/Challenge/camus/index.html)
 <div align="center">
-<img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/camus-us1.gif" height="200"> <img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/camus-us2.gif" height="200">
+<img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/camus-us1.gif" height="150"> <img src="https://github.com/yuhoo0302/SAM2-for-Medical-Images/blob/main/videos/camus-us2.gif" height="150">
 </div>
 
 
