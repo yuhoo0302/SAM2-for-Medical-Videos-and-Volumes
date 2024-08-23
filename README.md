@@ -3,6 +3,14 @@
 This project focuses on evaluating the SAM2 on medical images (videos/volumes), especially from the perspective of a real clinical annotation scene. In SAM2, the performance of target tracking depends on the accuracy of the segmentation of the initial frame. The initial frame can be prompted by `point` or `mask` (`box` is not open-source now). Therefore, to obtain stable tracking and annotation effects, the user should choose to manually label the mask outline of one frame instead of clicking several points. Therefore, we plan to explore the performance that SAM2 can achieve when the user labels the frame's mask with the largest area and gives the frame position where the target appears and ends. We believe this to some extent reflects the potential of SAM2 in the application of medical moving object annotation.
 
 
+## Installation
+Please follow the official [[SAM2]](https://github.com/facebookresearch/segment-anything-2) for installation before evaluation. Ensure the virtual environment with `python>=3.10, torch>=2.3.1 and torchvision>=0.18.1`, and `cuda>=12.1`. Set the correct cuda path using the following commands:
+```bash
+export PATH=/usr/local/cuda-12.2/bin${PATH:+:${PATH}}
+export LD_LIBRARY_PATH=/usr/local/cuda-12.2/lib64${LD_LIBRARY_PATH:+:${LD_LIBRARY_PATH}}
+source ~/.bashrc 
+```
+
 ## TotalSegmentor-MR
 #### Modality: `MRI`
 #### Target: `adrenal_gland_left, adrenal_gland_right, aorta, autochthon_left, autochthon_right, brain, colon, duodenum, esophagus, femur_left, femur_right, fibula, gallbladder, gluteus_maximus_left, gluteus_maximus_right, gluteus_medius_left, gluteus_medius_right, gluteus_minimus_left, gluteus_minimus_right, heart, hip_left, hip_right, humerus_left, humerus_right, iliac_artery_left, iliac_artery_right, iliac_vena_left, iliac_vena_right, iliopsoas_left, iliopsoas_right, inferior_vena_cava, intervertebral_discs, kidney_left, kidney_right, liver, lung_left, lung_right, pancreas, portal_vein_and_splenic_vein, prostate, quadriceps_femoris_left, quadriceps_femoris_right, sacrum, sartorius_left, sartorius_right, small_bowel, spinal_cord, spleen, stomach, thigh_medial_compartment_left, thigh_medial_compartment_right, thigh_posterior_compartment_left, thigh_posterior_compartment_right, tibia, urinary_bladder, vertebrae`
