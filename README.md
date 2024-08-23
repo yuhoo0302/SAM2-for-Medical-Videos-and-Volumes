@@ -11,6 +11,17 @@ export LD_LIBRARY_PATH=/usr/local/cuda-12.2/lib64${LD_LIBRARY_PATH:+:${LD_LIBRAR
 source ~/.bashrc 
 ```
 
+## Preparation
+Download the SAM2 checkpoints, and put them in the `./checkpoints/` folder.
+- [sam2_hiera_tiny.pt](https://dl.fbaipublicfiles.com/segment_anything_2/072824/sam2_hiera_tiny.pt)
+- [sam2_hiera_small.pt](https://dl.fbaipublicfiles.com/segment_anything_2/072824/sam2_hiera_small.pt)
+- [sam2_hiera_base_plus.pt](https://dl.fbaipublicfiles.com/segment_anything_2/072824/sam2_hiera_base_plus.pt)
+- [sam2_hiera_large.pt](https://dl.fbaipublicfiles.com/segment_anything_2/072824/sam2_hiera_large.pt)
+
+
+
+## Results
+
 ### TotalSegmentor-MR
 #### Modality: `MRI`
 #### Target: `adrenal_gland_left, adrenal_gland_right, aorta, autochthon_left, autochthon_right, brain, colon, duodenum, esophagus, femur_left, femur_right, fibula, gallbladder, gluteus_maximus_left, gluteus_maximus_right, gluteus_medius_left, gluteus_medius_right, gluteus_minimus_left, gluteus_minimus_right, heart, hip_left, hip_right, humerus_left, humerus_right, iliac_artery_left, iliac_artery_right, iliac_vena_left, iliac_vena_right, iliopsoas_left, iliopsoas_right, inferior_vena_cava, intervertebral_discs, kidney_left, kidney_right, liver, lung_left, lung_right, pancreas, portal_vein_and_splenic_vein, prostate, quadriceps_femoris_left, quadriceps_femoris_right, sacrum, sartorius_left, sartorius_right, small_bowel, spinal_cord, spleen, stomach, thigh_medial_compartment_left, thigh_medial_compartment_right, thigh_posterior_compartment_left, thigh_posterior_compartment_right, tibia, urinary_bladder, vertebrae`
